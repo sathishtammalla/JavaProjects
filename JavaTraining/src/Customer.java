@@ -1,6 +1,8 @@
 
 public class Customer implements Comparable<Customer>{
 	
+	// Added a comment 
+	
 	private int customerID;
 	public int getCustomerID() {
 		return customerID;
